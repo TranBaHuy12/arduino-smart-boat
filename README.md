@@ -58,11 +58,13 @@ This repository preserves the project in its original state, including the origi
 
 ## 🔧 Hardware Overview
 
-- **Arduino Uno R3** — Main controller.
-- **HC-05 Bluetooth Module** — Wireless communication.
-- **L298N Motor Driver** — Controls the dual DC motors.
-- **2 × DC Motors** — Differential propulsion and steering.
-- **Li-ion Battery Pack** — Power supply.
+| Component | Description |
+|-----------|-------------|
+| Arduino Uno R3 | Main controller of the system. |
+| HC-05 Bluetooth Module | Wireless communication with the mobile application. |
+| L298N Motor Driver | Controls the dual DC motor drive system. |
+| 2 × DC Motors | Differential propulsion and steering. |
+| Li-ion Battery Pack | Power source for the system. |
 
 ## 📂 Repository Structure
 
