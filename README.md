@@ -30,25 +30,43 @@ This repository preserves the project in its original state, including the origi
 
 ## 📸 Project Gallery
 
-| Prototype | Competition |
-|-----------|-------------|
-| ![](media/hardware.jpg) | ![](media/students_competition_6.jpg) |
+### Prototype
 
 <p align="center">
-  <img src="media/demo.gif" alt="Prototype Demonstration" width="700">
+  <img src="media/hardware.jpg" width="700">
+</p>
+
+<p align="center">
+  <img src="media/demo.gif" width="700">
+</p>
+
+### Competition
+
+<p align="center">
+  <img src="media/students_competition/students_competition_1.jpg" width="220">
+  <img src="media/students_competition/students_competition_2.jpg" width="220">
+  <img src="media/students_competition/students_competition_3.jpg" width="220">
+</p>
+
+<p align="center">
+  <img src="media/students_competition/students_competition_4.jpg" width="220">
+  <img src="media/students_competition/students_competition_5.jpg" width="220">
+  <img src="media/students_competition/students_competition_6.jpg" width="220">
+</p>
+
+<p align="center">
+  <img src="media/students_competition/students_competition_7.jpg" width="220">
 </p>
 
 *Developed as part of the technical solution for a school-level STEM boat design competition.*
 
 ## 🔧 Hardware Overview
 
-| Component | Description |
-|-----------|-------------|
-| Arduino Uno R3 | Main controller of the system. |
-| HC-05 Bluetooth Module | Wireless communication with the mobile application. |
-| L298N Motor Driver | Controls the dual DC motor drive system. |
-| 2 × DC Motors | Differential propulsion and steering. |
-| Li-ion Battery Pack | Power source for the system. |
+- **Arduino Uno R3** — Main controller.
+- **HC-05 Bluetooth Module** — Wireless communication.
+- **L298N Motor Driver** — Controls the dual DC motors.
+- **2 × DC Motors** — Differential propulsion and steering.
+- **Li-ion Battery Pack** — Power supply.
 
 ## 📂 Repository Structure
 
