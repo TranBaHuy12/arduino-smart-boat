@@ -44,7 +44,7 @@ This repository preserves the project in its original state, including the origi
 
 <p align="center">
   <img src="media/students_competition/students_competition_1.jpg" width="220">
-  <img src="media/students_competition/students_competition_2.jpg" width="220">
+  
   <img src="media/students_competition/students_competition_3.jpg" width="220">
 </p>
 
