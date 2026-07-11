@@ -44,7 +44,7 @@ This repository preserves the project in its original state, including the origi
 
 <p align="center">
   <img src="media/students_competition/students_competition_1.jpg" width="220">
-  
+  <img src="media/students_competition/students_competition_2.jpg" width="220">
   <img src="media/students_competition/students_competition_3.jpg" width="220">
 </p>
 
@@ -52,10 +52,6 @@ This repository preserves the project in its original state, including the origi
   <img src="media/students_competition/students_competition_4.jpg" width="220">
   <img src="media/students_competition/students_competition_5.jpg" width="220">
   <img src="media/students_competition/students_competition_6.jpg" width="220">
-</p>
-
-<p align="center">
-  <img src="media/students_competition/students_competition_7.jpg" width="220">
 </p>
 
 *Developed as part of the technical solution for a school-level STEM boat design competition.*
